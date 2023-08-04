@@ -1,4 +1,4 @@
-# HospitalInfoManagement
+# Hospital Info Management
 
 ## Overview
 This repository hosts the codebase for the Hospital Information Management System (HIMS), an Angular-based application designed to manage healthcare data efficiently. Alongside the application, a comprehensive CI/CD pipeline has been implemented to streamline development, integration, testing, and deployment processes.
